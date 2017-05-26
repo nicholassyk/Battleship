@@ -131,6 +131,7 @@
     <Compile Include="src\UtilityFunctions.cs" />
     <Compile Include="GameMain.cs" />
     <Compile Include="Test.cs" />
+    <Compile Include="UnitTest1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\.DS_Store">
